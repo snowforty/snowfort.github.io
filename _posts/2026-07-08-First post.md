@@ -17,3 +17,4 @@ You can write **Markdown** here.
 ```html
 <h1>Hello!</h1>
 ```
+![My Image](/avatar.jpg)
