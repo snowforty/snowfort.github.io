@@ -9,7 +9,7 @@ tags: [jekyll, github]
 
 This is my first post.
 
-You can write **Markdown** here.
+I can write **Markdown** here.
 
 - Item 1
 - Item 2
