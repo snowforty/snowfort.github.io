@@ -1,0 +1,14 @@
+---
+title: First person at the top of Luduvo HQ
+date: 2026-07-08 20:08:00 +0200
+categories: [Blog]
+tags: [luduvo, glitch]
+---
+
+# hi
+
+First time writing a blog uh yeah.
+Me and some others decided to try and get to the top of the Luduvo HQ, sadly only one got on top.
+Here is the image of proof.
+![My Image](/image.png)
+I think that's all for now I might update this adding a video clip of us doing it, also probably tutorial on how to do it.
