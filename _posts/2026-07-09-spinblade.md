@@ -7,4 +7,12 @@ tags: [luduvo, funny]
 
 # SPINBLADE IN LUDUVO??? (APPROVED BY ISAAC??)
 KEK LOL!!!!
-{% include embed/video.html src='{assets/speedblade4.mp4}' %}
+{%
+  include embed/video.html
+  src='spinblade4.mp4'
+  types='ogg|mov' 
+  title='Demo video'
+  autoplay=true
+  loop=true
+  muted=true
+%}
